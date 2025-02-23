@@ -26,7 +26,7 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 #pt site
 DOMAIN-SUFFIX,hdkyl.in
-DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,tracker.m-team.cc
 DOMAIN-SUFFIX,ptl.gs
 
 # 360
