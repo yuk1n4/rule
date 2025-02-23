@@ -24,12 +24,6 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
-# pt
-DOMAIN-SUFFIX,hdkyl.in
-DOMAIN-SUFFIX,tracker.m-team.cc
-DOMAIN-SUFFIX,ptl.gs
-DOMAIN-SUFFIX,tracker.zhuque.in
-
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
@@ -39,6 +33,10 @@ DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
+DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,tracker.m-team.cc
+DOMAIN-SUFFIX,ptl.gs
+DOMAIN-SUFFIX,tracker.zhuque.in
 
 
 
