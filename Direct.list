@@ -25,6 +25,8 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 # pt site
+DOMAIN-SUFFIX,zmpt.cc
+DOMAIN-SUFFIX,zmpt.club
 DOMAIN-SUFFIX,zimiao.icu
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,pterclub.com
