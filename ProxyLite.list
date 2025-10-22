@@ -12,6 +12,9 @@ IP-CIDR,103.115.43.2/32,no-resolve
 
 # my site
 DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,missav.live
+DOMAIN-SUFFIX,missav123.com
 
 # 国外DNS
 DOMAIN-SUFFIX,zhuque.in
